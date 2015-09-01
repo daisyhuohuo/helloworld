@@ -1,0 +1,1 @@
+arm-linux-gnueabihf-gcc main.c -I/home/hlo1szh/mySPINuproj/722project/mySPINup-project/output/atlas6cb/host/usr/arm-buildroot-linux-gnueabihf/sysroot/usr/include -L/home/hlo1szh/mySPINuproj/722project/mySPINup-project/output/atlas6cb/host/usr/arm-buildroot-linux-gnueabihf/sysroot/usr/lib -ludev
